@@ -1,0 +1,18 @@
+name: "Marine GIS"
+output_dir: "."
+navbar:
+  title: "Marine GIS"
+  left:
+    - text: "Books"
+      icon: fa-book 
+      href: books.html
+    - text: "Courses"
+      icon: fa-graduation-cap
+      href: courses.html
+  right:
+    - icon: fab fa-twitter
+      href: https://twitter.com/share?url=https://wandabodnar.github.io/marinegis/
+    - icon: fab fa-facebook
+      href: https://www.facebook.com/sharer/sharer.php?u=https://wandabodnar.github.io/marinegis/
+    - icon: fab fa-linkedin
+      href: https://www.linkedin.com/shareArticle?url=https://wandabodnar.github.io/marinegis/
